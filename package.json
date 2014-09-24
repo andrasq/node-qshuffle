@@ -34,7 +34,6 @@
     "nodeunit": "*",
     "assert": "*"
   },
-  "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/andrasq/node-qshuffle/issues"
   }
