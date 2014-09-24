@@ -1,0 +1,41 @@
+{
+  "name": "qshuffle",
+  "version": "1.0.0",
+  "description": "randomize the order of the array items",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrasq/node-qshuffle"
+  },
+  "homepage": "https://github.com/andrasq/node-qshuffle",
+  "main": "index.js",
+  "author": {
+    "name": "Andras",
+    "url": "http://github.com/andrasq"
+  },
+  "engines": {
+    "node": ">=0.0.0"
+  },
+  "scripts": {
+    "test": "nodeunit"
+  },
+  "keywords": [
+    "array",
+    "list",
+    "shuffle",
+    "random",
+    "randomize",
+    "items",
+    "order"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodeunit": "*",
+    "assert": "*"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/andrasq/node-qshuffle/issues"
+  }
+}
