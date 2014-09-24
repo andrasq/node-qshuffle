@@ -11,7 +11,7 @@ See `npm array-shuffle` and `shuffle-array`.
 
 Sample usage:
 
-        var shuffle = require('shuffle');
+        var shuffle = require('qshuffle');
 
         var a = [1,2,3,4];
         shuffle(a);
