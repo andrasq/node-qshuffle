@@ -1,8 +1,8 @@
-qhuffle
-=======
+qshuffle
+========
 
-Rearrange the order of the elements of the array.  Works in-place,
-but also returns the input array.
+Rearrange the order of the elements in the array.  Works in-place and
+modifies the input array, but also returns it.
 
 So it turns out my approach is already known as the Fisher-Yates shuffle.
 See `npm array-shuffle` and `shuffle-array`.
